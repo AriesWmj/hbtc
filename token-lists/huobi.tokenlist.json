@@ -1,6 +1,6 @@
 {
   "name": "Huobi Token List",
-  "logoURI": "https://github.com/AriesWmj/hbtc/blob/master/logo/hbtc.png",
+  "logoURI": "https://raw.githubusercontent.com/AriesWmj/hbtc/master/logo/huobi.svg",
   "keywords": [
     "audited",
     "verified",
@@ -24,7 +24,7 @@
       "symbol": "HBTC",
       "name": "ERC20 Coin",
       "decimals": 18,
-      "logoURI": "https://github.com/AriesWmj/hbtc/blob/master/logo/hbtc.png",
+      "logoURI": "https://raw.githubusercontent.com/AriesWmj/hbtc/master/logo/hbtc.svg",
       "tags": [
         "ERC20BTC"
       ]
