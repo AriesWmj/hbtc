@@ -1,6 +1,6 @@
 {
   "name": "Huobi Token List",
-  "logoURI": "ipfs://QmUSNbwUxUYNMvMksKypkgWs8unSm8dX2GjCPBVGZ7GGMr",
+  "logoURI": "https://github.com/AriesWmj/hbtc/blob/master/logo/hbtc.png",
   "keywords": [
     "audited",
     "verified",
@@ -24,20 +24,9 @@
       "symbol": "HBTC",
       "name": "ERC20 Coin",
       "decimals": 18,
-      "logoURI": "ipfs://QmXfzKRvjZz3u5JRgC4v5mGVbm9ahrUiB4DgzHBsnWbTMM",
+      "logoURI": "https://github.com/AriesWmj/hbtc/blob/master/logo/hbtc.png",
       "tags": [
         "ERC20BTC"
-      ]
-    },
-    {
-      "chainId": 1,
-      "address": "0x0316EB71485b0Ab14103307bf65a021042c6d380",
-      "symbol": "HBTC",
-      "name": "Compound USD Coin",
-      "decimals": 18,
-      "logoURI": "ipfs://QmUSNbwUxUYNMvMksKypkgWs8unSm8dX2GjCPBVGZ7GGMr",
-      "tags": [
-        "huobi"
       ]
     }
   ],
